@@ -8,6 +8,16 @@
   
  </div>
  
+<div>
+
+   <p align="center">🔭 I’m currently working on <b>HTML</b></p>
+   <p align="center">•🌱 I’m currently learning <b>HTML & CSS</b></p>
+   <p align="center">•👯 I’m looking to collaborate on <b>Minecraft Modpack</b></p>
+   <p align="center">📫 How to reach me <a href="mailto:JubairAhammed.Official@gmail.com">JubairAhammed.Official@gmail.com</a></p>
+   <p align="center">•⚡ Fun fact<b>I am The Ghost Of The Uchiha</b></p>
+
+</div>
+ 
 - 🔭 I’m currently working on **JavaScript**
 - 🌱 I’m currently learning **JavaScript, Java, TypeScript, HTML, CSS**
 - 👯 I’m looking to collaborate on **Minecraft Modpack**
