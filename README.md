@@ -14,7 +14,7 @@
 - 📫 How to reach me **JubairAhammed.Official@gmail.com**
 - ⚡ Fun fact **I am The Ghost Of The Uchiha**
 
-[![](https://visitcount.itsvg.in/api?id=Jubair-Ahammed&icon=2&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JubairUchiha&icon=2&color=3)](https://visitcount.itsvg.in)
 
 <h3 ">Connect with me: </h2>
 <a href="https://www.facebook.com/JubairUchiha" target="blank"><img align="center" src="https://github.com/JubairUchiha/Test/blob/main/Icon/facebook.png" height="35" width="35" /></a>
@@ -64,9 +64,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Jubair-Ahammed&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=JubairUchiha&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jubair-Ahammed&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jubair-Ahammed&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jubair-Ahammed&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=JubairUchiha&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JubairUchiha&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JubairUchiha&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
