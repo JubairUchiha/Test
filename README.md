@@ -9,6 +9,40 @@
 
 </div>
 
+<div>
+
+```javascript
+
+const JubairAhammed = {
+
+    pronouns: "he" | "him",
+
+    code: [ HTML, CSS, SHELL, ],
+
+    technologies: {
+
+        language: [ "HTML", "CSS", "SHELL SCRIPT", ],
+
+        SaaS: [ "Azure", "Google Cloud", "Oracle", "Digital Ocean", "Heroku", ],
+
+        servers: [ "Nginx" ],
+
+        database: [ "MySQL" ],
+
+        designe: [ "After Effect", "Premiere Pro", "Illustrator", "XD", "Photoshop" ],
+
+        OS: [ "Windows", "Linux", ],
+
+        other: [ "Docker" ],
+
+    }
+
+};
+
+```
+
+</div>
+
 <!-- Status -->
 <div align="center">
 
